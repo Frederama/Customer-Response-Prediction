@@ -34,13 +34,13 @@ Each model is tuned using `CrossValidator` and `ParamGridBuilder` to maximize ge
 
 ---
 
-## 🛠 Tools & Libraries
-`PySpark` · `Spark MLlib` · `Pandas` · `Jupyter Notebooks` · `Databricks` · `Scikit-learn` (for comparison)
+## 📈 Results
+- Logistic regression (L1-regularized) with Annual Data offered high interpretability and best generalization.
 
 ---
 
-## 📈 Results
-- Logistic regression (L1-regularized) with Annual Data offered high interpretability and best generalization.
+## 🛠 Tools & Libraries
+`PySpark` · `Spark MLlib` · `Pandas` · `Jupyter Notebooks` · `Databricks` · `Scikit-learn` (for comparison)
 
 ---
 
