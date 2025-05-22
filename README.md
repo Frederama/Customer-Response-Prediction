@@ -1,5 +1,4 @@
 # Customer-Response-Prediction
-# ⚙️ PySpark Machine Learning Pipeline
 
 ## 🎯 Objective
 Build a scalable machine learning pipeline in **PySpark** to predict whether a customer will respond positively or negatively to a **marketing promotion campaign**. The project showcases how to implement end-to-end data preparation, model training, and evaluation in a distributed computing environment.
