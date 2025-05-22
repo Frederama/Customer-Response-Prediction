@@ -9,7 +9,7 @@ This pipeline is inspired by and adapted from a previously completed traditional
 
 ## 🧠 Workflow Summary
 
-- Data cleanining and Data Exploration Analysis in the first notebook for feature engineering
+- Data cleaning and Data Exploration Analysis in the first notebook for feature engineering
 - ✅ Load and prepare customer annual and monthly data
 - 🧼 Feature engineering using `VectorAssembler` and `StandardScaler`
 - 🧪 Temporal-based train/test split
