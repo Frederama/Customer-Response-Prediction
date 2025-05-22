@@ -46,6 +46,5 @@ Each model is tuned using `CrossValidator` and `ParamGridBuilder` to maximize ge
 
 ## 📎 References
 - [Spark MLlib Docs](https://spark.apache.org/docs/latest/ml-guide.html)
-- [Marketing Campaign Data (Kaggle)](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)
 - [Scikit-learn Pipeline Reference](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
 
